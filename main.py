@@ -189,6 +189,9 @@ mas=gen(A,B,min,max)
 mas = sortfast(mas,A,B)
 print(*mas,sep="\n")
 print()
+
+
+
 #mas=gen(A,B,min,max)
 #mas = sorttur(mas,A,B)
 #Sprint(*mas,sep="\n")
